@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 90%;
+  margin: 100px auto auto;
+  padding: 10px;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.box img {
+  float: left;
+  width: 200px;
+  height: auto;
+  margin: 0 20px 0;
+  border-radius: 50%;
+  shape-outside: circle(50%);
+}
+
+.box p {
+  line-height: 20px;
+}
+/*# sourceMappingURL=style.css.map */
